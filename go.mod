@@ -1,3 +1,3 @@
-module HiConfig
+module hiconfig
 
 go 1.19
